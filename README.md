@@ -2,12 +2,12 @@
 
 ## Модели
 
-| Модель | Провайдер | Тип |
-|--------|-----------|-----|
-| deepseek-v4.1-flash | DeepSeek | Flash |
-| glm-5.3 | Z.ai | Reasoning |
-| gpt-6-luna | OpenAI | Frontier |
-| kimi-k3 | Moonshot AI | Reasoning |
+| Модель | Провайдер | 
+|--------|-----------|
+| deepseek-v4.1-flash | DeepSeek | 
+| glm-5.3 | Z.ai | 
+| gpt-6-luna | OpenAI | 
+| kimi-k3 | Moonshot AI |
 
 
 
